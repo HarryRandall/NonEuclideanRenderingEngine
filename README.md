@@ -1,2 +1,2 @@
 # NonEuclideanRenderingEngine
-Building a rendering engine in OpenGL to explore non-Euclidean spaces, using C++ and GLSL shaders to create warped environments, custom projections, and a flexible camera system for unconventional 3D visuals.
+This project involves building a custom rendering engine in OpenGL, focusing on visualising non-Euclidean spaces. The aim is to simulate warped, curved, and abstract environments that go beyond standard Euclidean geometry. Through this engine, users can explore unique visual effects that mimic hyperbolic, spherical, and other unconventional spaces.
